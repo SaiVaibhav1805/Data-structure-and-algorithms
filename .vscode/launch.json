@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DLL",
+            "request": "launch",
+            "mainClass": "LinkedList.DLL",
+            "projectName": "DSA_beedfbce"
+        },
+        {
+            "type": "java",
             "name": "LL",
             "request": "launch",
             "mainClass": "LinkedList.LL",
